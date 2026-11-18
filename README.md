@@ -1,6 +1,6 @@
 # Allen F
 
-IC 前端验证工程师，在北京。平时写 SystemVerilog / UVM，跑 DPI-C 联仿和回归。
+IC 前端验证工程师，在北京。平时写 SystemVerilog / UVM
 
 业余写点小工具，目前只有这一个：
 
@@ -13,7 +13,7 @@ IC 前端验证工程师，在北京。平时写 SystemVerilog / UVM，跑 DPI-C
 
 # Allen F
 
-IC verification engineer based in Beijing. I write SystemVerilog and UVM, and run DPI-C co-simulation and regressions.
+IC verification engineer based in Beijing. I write SystemVerilog and UVM.
 
 On the side I build small tools. There is one so far:
 
